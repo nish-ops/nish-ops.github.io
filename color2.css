@@ -1,0 +1,72 @@
+h1 {
+     color:orange;
+}
+
+header p {
+       color: green;
+}
+.highlight {
+   background-color:aqua;
+   text-align:left;
+   color:black;
+}
+
+header h2 {
+           background-color:Twitter;
+           color:Lime;
+           text-align:center;
+           border:10px;
+}
+.site-nav li {
+    list-style: none;
+    float: left;
+    margin-left: 5px;
+}
+
+.site-nav a {
+     color:  #FD6A02;
+     text-decoration: none;
+}
+.site-nav a {
+           color:  #FD6A02;
+           text-decoration: none;
+           padding: 10px 20px;
+           border: 3px solid #FD6A02;
+}
+.site-nav a:hover {
+      background-color: orange;
+}
+.content-area {
+        position:relative;
+        top:10px;
+}
+.container {
+        max-width: 940px;
+        margin-left: auto;
+        margin-left: auto;
+}
+.box-A{
+       background-color:orange;
+       padding:30px;
+       
+}
+.box-B{
+      background-color:aqua;
+      padding:30px;
+}
+.highlight1 {
+              background-color:gray;
+}
+.highlight3 {
+             background-color:white;
+             color:Turquoise;
+             text-align:left;
+}
+.highlight7 {
+             background-color:white;
+             color:Turquoise;
+}
+.highlight5 {
+             background-color:white;
+             color:Teal;
+}
